@@ -1,0 +1,17 @@
+{
+  "name": "amsserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0",
+    "mysql": "^2.17.1",
+    "silly-datetime": "^0.1.2"
+  }
+}
